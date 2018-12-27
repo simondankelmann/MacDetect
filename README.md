@@ -9,6 +9,7 @@ Requires tshark to be installed, type ```sudo apt install tshark``` if you are r
 <b>Start the Observer</b>
 
 To start the observer you will need to cd into the cloned Folder on your Machine and pass a Wifi Monitoring Device as first Parameter. The setup your Monitoring Device the easy way, you could use airmon-ng. See https://www.aircrack-ng.org/ for more information on that.
+
 <b>Example: </b>
 
 ```./macDetect.sh wlan0mon```
